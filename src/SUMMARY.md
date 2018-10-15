@@ -1,0 +1,15 @@
+# Summary
+
+* [Drupal](README.md)
+  * [Php Storm](docs/phpstorm/INDEX.md)
+  * [Code Sniffer](docs/codesniffer/INDEX.md)
+  * [Gitflow](docs/gitflow/INDEX.md)
+  * [Styleguide](docs/styleguide/INDEX.md)
+  * [Docker](docs/docker/INDEX.md)
+    * [Setup](docs/docker/SETUP.md)
+  * [Lindev](docs/lindev/INDEX.md)
+    * [Server Info](docs/lindev/SERVER_INFO.md)
+    * [SSH Key toevoegen](docs/lindev/SSH_KEY.md)
+    * [Nieuwe site toevoegen](docs/lindev/ADD_NEW_SITE.md)
+  * [Platform.sh](docs/platform/INDEX.md)
+  * [Modules](docs/modules/INDEX.md)

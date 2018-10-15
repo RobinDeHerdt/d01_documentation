@@ -1,0 +1,8 @@
+{
+  "title": "District01 Documentation",
+  "root": "src",
+  "gitbook": ">=3.2",
+  "language": "en",
+  "plugins": [],
+  "pluginsConfig": {}
+}
