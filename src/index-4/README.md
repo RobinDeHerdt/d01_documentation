@@ -1,6 +1,8 @@
 # Docker
 
-![IMAGE](https://github.com/district01-drupal/d01_documentation/tree/3615f736dc3b8890a8f10f786fdfe51b44f1d915/src/docs/docker/assets/images/docker-logo.png)
+![](../.gitbook/assets/docker-logo.png)
+
+
 
 In de oude traditionele opzet heb je zelf op je computer een apache, php, solr, varnish, … staan om zo te ontwikkelen. Hierbij vormt zich vaak het probleem dat deze versies verschillen voor de verschillende sites waarop je ontwikkeld. Wat dus wil zeggen dat hetgeen je lokaal hebt staan niet altijd overeenkomt met wat er op de live site staat en dit zorgt voor problemen.
 
